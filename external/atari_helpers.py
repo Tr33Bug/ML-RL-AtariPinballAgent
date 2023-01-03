@@ -1,9 +1,9 @@
 from collections import deque
 
 import cv2
-import gymnasium as gym
+import gym
 import numpy as np
-from gymnasium import spaces
+from gym import spaces
 
 
 class EpisodicLifeEnv(gym.Wrapper):
