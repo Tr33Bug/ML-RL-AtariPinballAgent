@@ -105,7 +105,7 @@ from tensorflow import keras
 from tensorflow.compat.v1.keras.backend import set_session
 from pyvirtualdisplay import Display
 import matplotlib.pyplot as plt
-%matplotlib inline
+# %matplotlib inline
 
 # local files
 from external.abstract_agent import AbstractAgent
